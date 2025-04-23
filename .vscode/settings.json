@@ -3,5 +3,6 @@
         "server": "localhost",
         "ns": "ENROLLMENT",
         "active": true
-    }
+    },
+    "workbench.colorTheme": "InterSystems Default Light Modern"
 }
